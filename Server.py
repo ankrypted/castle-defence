@@ -1,5 +1,7 @@
 #!/usr/bin/env python2
 
+# Some comment.
+
 import pygame
 import thread
 
